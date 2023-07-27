@@ -1,0 +1,5 @@
+-- ALTER TABLE passport
+--     ADD CONSTRAINT pk_passport PRIMARY KEY (id);
+--
+-- ALTER TABLE passport
+--     ALTER COLUMN id SET NOT NULL;
